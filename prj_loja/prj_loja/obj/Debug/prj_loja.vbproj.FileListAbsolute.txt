@@ -1,0 +1,176 @@
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\bin\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\bin\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\bin\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.Form1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\bin\Debug\cadastro.accdb
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.Form1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_gerenciamento.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\TRENDS_versao12.1\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.Form1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_gerenciamento.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\bin\Debug\cadastro.accdb
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\bin\Debug\cadastro.accdb
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.exe
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.pdb
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\bin\Debug\prj_loja.xml
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.Form1.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_calcados.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_gerenciamento.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_calcados.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_clientes.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_vendas.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+C:\Users\Ana & Leandro\Desktop\trends 12.1\versao12.1\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.Form1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_gerenciamento.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_calcados.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_roupas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\bin\Debug\cadastro.accdb
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\bin\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\bin\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\bin\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_roupas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.2\prj_loja\prj_loja\obj\Debug\prj_loja.frm_admin.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.Form1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_admin.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_estoque.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_gerenciamento.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_clientes.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_estoque.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relat_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+C:\Users\MATT\OneDrive\Área de Trabalho\versao12.3\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\bin\Debug\cadastro.accdb
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\bin\Debug\prj_loja.exe
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\bin\Debug\prj_loja.pdb
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\bin\Debug\prj_loja.xml
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_home.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_admin.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_estoque.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_clientes.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_gerenciamento.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_login.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.Resources.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.SplashScreen1.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.GenerateResource.Cache
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\RdlCompile.cache
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\RdlCompile.compiled
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.pdb
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_vendas.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.vbprojResolveAssemblyReference.cache
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relatorio_clientes.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\versao12.3\prj_loja\prj_loja\obj\Debug\prj_loja.frm_relatorio_estoque.resources
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\LojaRoupas\prj_loja\prj_loja\bin\Debug\prj_loja.exe.config
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\LojaRoupas\prj_loja\prj_loja\obj\Debug\Interop.ADODB.dll
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\LojaRoupas\prj_loja\prj_loja\obj\Debug\prj_loja.vbproj.ResolveComReference.cache
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\LojaRoupas\prj_loja\prj_loja\obj\Debug\prj_loja.exe
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\LojaRoupas\prj_loja\prj_loja\obj\Debug\prj_loja.xml
+D:\FATEC\FATEC\2o SEM\Sistemas de Informacao\P2_Projeto\LojaRoupas\prj_loja\prj_loja\obj\Debug\prj_loja.pdb

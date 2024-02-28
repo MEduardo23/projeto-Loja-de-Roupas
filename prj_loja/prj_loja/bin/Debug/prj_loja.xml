@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_loja
+</name>
+</assembly>
+<members>
+<member name="T:prj_loja.cadastroDataSet1.tb_cepDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_clientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_estoqueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_vendasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_cepRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_clientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_estoqueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_vendasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_cepRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_clientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_estoqueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1.tb_vendasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.tb_cepTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.tb_clientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.tb_estoqueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.tb_loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.tb_vendasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(prj_loja.cadastroDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(prj_loja.cadastroDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(prj_loja.cadastroDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.UpdateAll(prj_loja.cadastroDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_cepDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_clientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_estoqueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_vendasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_cepRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_clientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_estoqueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_vendasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_cepRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_clientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_estoqueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet.tb_vendasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prj_loja.cadastroDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.tb_cepTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.tb_clientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.tb_estoqueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.tb_loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.tb_vendasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(prj_loja.cadastroDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(prj_loja.cadastroDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(prj_loja.cadastroDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.UpdateAll(prj_loja.cadastroDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:prj_loja.cadastroDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:prj_loja.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:prj_loja.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:prj_loja.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
