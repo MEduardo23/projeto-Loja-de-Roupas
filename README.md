@@ -1,2 +1,2 @@
 # vb.net-projects
-VB.NET projects developed using Visual Studio 2013
+Projeto de Loja de Roupas desenvolvido em VB.NET usando Visual Studio 2013.
